@@ -22,7 +22,7 @@ There are some guildelines which everyone should follow while contributing to th
 
 ## 1. Fork the Repository
 
-First step is to fork this repository (rahulsain/DiceRoller) to your GitHub account. You can do this by clicking on the Fork button provided in the top right corner of the repo page. 
+First step is to fork this repository (rahulsain/TipCal) to your GitHub account. You can do this by clicking on the Fork button provided in the top right corner of the repo page. 
 
 
 Also, star and watch the repository to receive all the updates directly to your mail.
